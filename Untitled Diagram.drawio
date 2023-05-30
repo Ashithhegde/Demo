@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-05-30T12:54:58.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uiR2dexxXsY-uQGcNYSu" version="21.3.5" type="github">
+  <diagram name="Page-1" id="vFoG2vwDNDZceMdTAJsb">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-7" value="Admin Workstation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-12" value="Control Plane Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.command_line;" vertex="1" parent="1">
+          <mxGeometry x="140" y="176" width="28.000000000000004" height="28.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="UaKpD1dw4Sh4kHapiwSD-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.command_line;" vertex="1" parent="1">
+          <mxGeometry x="140" y="246" width="28.000000000000004" height="28.000000000000004" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
